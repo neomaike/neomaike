@@ -12,7 +12,7 @@
 
 ---
 
-Founder @ [MHX Digital](https://mhxdigital.com). Building software since 2013. I take products from 0 to production — AI/LLM platforms, Rust systems, B2B SaaS. Background in economics; I care about the business as much as the code.
+Founder @ [MHX Digital](https://mhxdigital.com). Building software since 2013. I take products from 0 to production: AI/LLM platforms, Rust systems, B2B SaaS. Background in economics; I care about the business as much as the code.
 
 **Shipping now**
 - **[LexNotify](https://lexnotify.com)** — AI legal-intelligence platform. Monitors 48 Brazilian courts, reads case documents, transcribes audio, generates legal filings. In production with recurring revenue.
