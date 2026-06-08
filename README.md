@@ -1,6 +1,6 @@
 <div align="center">
 
-# Maike Henrique
+# Maike Neo
 
 **Founding Engineer · AI/LLM · Rust Systems · Full-Stack SaaS**
 
