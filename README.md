@@ -16,7 +16,7 @@ Founder @ [MHX Digital](https://mhxdigital.com). Building software since 2013. I
 
 **Shipping now**
 - **[LexNotify](https://lexnotify.com)** — AI legal-intelligence platform. Monitors 48 Brazilian courts, reads case documents, transcribes audio, generates legal filings. In production with recurring revenue.
-- **Vottus** — B2B electoral-intelligence platform. 23+ analytical modules: voter CRM, territory heatmaps, adversary OSINT, causal AI.
+- **Votanai** — B2B electoral-intelligence platform. 23+ analytical modules: voter CRM, territory heatmaps, adversary OSINT, causal AI.
 
 **Previously**
 - Rust on-chain MEV/arbitrage engine — 43 DEX pools, Flashbots, sub-millisecond hot path
